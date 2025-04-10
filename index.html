@@ -8,15 +8,15 @@
 
 </head>
 
-<body style="margin: 0;" id="body">
+<body style="margin: 0;	overflow: hidden; position: fixed;" id="body">
 	<canvas style="margin: 0;" id="canvas"></canvas>
 	<script>
 		let w = window.innerWidth;
 		let h = window.innerHeight;
 		canvas = document.getElementById("canvas");
 		var ctx = canvas.getContext("2d");
-		canvas.width = w - 8;
-		canvas.height = h - 8;
+		canvas.width = w;
+		canvas.height = h;
 		let x = 255;
 		let y = 255;
 		let z = 255;
