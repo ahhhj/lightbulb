@@ -1,4 +1,7 @@
-# What does this do?
+# Premise:
+### Sometimes, when you aren't using the screen, making it bright is useful.
+
+# What does this do? (functions)
 it does 1.1 things:
 
 
