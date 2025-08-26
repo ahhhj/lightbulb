@@ -33,3 +33,5 @@ It was a little tedious to do this every time, so I decided to make an ""interfa
 I came up with this, because desk lamps cost more than free, but github.io is free.
 
 Now, my problem is fixed! Because I am writing this much after I made this. As of now, my desk is moved anyway, and I am ironically writing this in the dark.
+
+Even though that's fixed, I still find this useful for cleaning my laptop.
